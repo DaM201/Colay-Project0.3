@@ -50,7 +50,7 @@ pip install colorama
 pip install requests
 ```
 ```
-   pip install psutil
+pip install psutil
 ```
    
 # Other Updates - Colay
