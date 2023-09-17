@@ -17,7 +17,9 @@
 2) Open a **Linux** Terminal and type this **Command**  -
 ```git clone https://github.com/DaM201/Colay-Project-Mobile0.3```
 3) If **Colay** is Installed, Type This **Command**  -
-```sudo apt install python && python Colay-Project-Mobile/colay.py --help```
+```
+sudo apt install python && python Colay-Project-Mobile/colay.py --help
+```
 
 # Installation Colay to Termux
 
